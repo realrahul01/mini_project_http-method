@@ -1,8 +1,18 @@
-# React + Vite
+As a part of this assignment you need to create a react application which fetch the customer data from api and display the data in your app. Refer to the attached image for the UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You also need to provide an option to add the customer by entering the name of the customer in input area.
 
-Currently, two official plugins are available:
+Create React App  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+POST request for ADD Name 
+
+GET request for Fetch Name 
+
+use axios  &  JSONPlaceholder 
+
+
+The created user will not display on the Josonplaceholder
+
+
+How to check weather POST request to Add User is successful? 
+You can check you console , the user object will be created and displayed in the console with the new name you have entered in the input field.
